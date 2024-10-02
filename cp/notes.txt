@@ -1,0 +1,6 @@
+Weaknesses:
+
+- Digit DP
+- Network Flow
+- Inclusion-Exclusion Principle
+- binary operations
